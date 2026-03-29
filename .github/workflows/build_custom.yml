@@ -1,0 +1,17 @@
+name: Build Custom Firmware
+
+on:
+  workflow_dispatch:
+    inputs:
+      pio_env:
+        description: seeed_xiao_s3_base
+        required: true
+        default: seeed_xiao_s3_base
+
+jobs:
+  build:
+    uses: ./.github/workflows/build_firmware.yml
+    with:
+      version: "custom"
+      platform: esp32s3
+      pio_env: ${{ inputs.pio_env }}
