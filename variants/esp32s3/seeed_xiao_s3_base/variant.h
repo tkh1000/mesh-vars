@@ -89,4 +89,3 @@ Radio Board Information: https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.
 #define HAS_GPS          0
 #define HAS_WIRE         0
 
-#endif
