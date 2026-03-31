@@ -39,8 +39,8 @@ Radio Board Information: https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.
 #define ADC_CHANNEL ADC1_GPIO1_CHANNEL
 #define BATTERY_SENSE_RESOLUTION_BITS 12
 
-#define SDA  5
-#define SCL  6
+#define SDA  17
+#define SCL  18
 
 
 // XIAO S3 LORA module
