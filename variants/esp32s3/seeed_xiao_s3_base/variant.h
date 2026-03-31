@@ -26,7 +26,7 @@
 
 /*
 Board Information: https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html=
-Radio Board Information: https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html
+Radio Board Information: https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html 
 */
 
 #define LED_POWER 48
