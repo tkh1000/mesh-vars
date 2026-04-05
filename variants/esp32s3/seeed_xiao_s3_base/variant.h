@@ -1,5 +1,5 @@
 /*
- ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄
+ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄
 ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌
 ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌
 ▐░▌          ▐░▌          ▐░▌          ▐░▌          ▐░▌       ▐░▌
@@ -9,24 +9,24 @@
           ▐░▌▐░▌          ▐░▌          ▐░▌          ▐░▌       ▐░▌
  ▄▄▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌
 ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░▌
- ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀
+ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀
 
-  ▄       ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄       ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄
- ▐░▌     ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-  ▐░▌   ▐░▌  ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌     ▐░█▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀█░▌
-   ▐░▌ ▐░▌       ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌     ▐░▌                    ▐░▌
-    ▐░▐░▌        ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌     ▐░█▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄█░▌
-     ▐░▌         ▐░▌     ▐░░░░░░░░░░░▌▐░▌       ▐░▌     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-    ▐░▌░▌        ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌      ▀▀▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌
-   ▐░▌ ▐░▌       ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌               ▐░▌          ▐░▌
-  ▐░▌   ▐░▌  ▄▄▄▄█░█▄▄▄▄ ▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄█░▌      ▄▄▄▄▄▄▄▄▄█░▌ ▄▄▄▄▄▄▄▄▄█░▌
- ▐░▌     ▐░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-  ▀       ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀
+ ▄         ▄ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄▄▄▄▄
+▐░▌       ▐░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+▐░▌       ▐░▌ ▀▀▀▀█░█▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀█░▌ ▐░█▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀█░▌
+▐░▌       ▐░▌     ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌ ▐░▌                  ▐░▌
+▐░▌   ▄   ▐░▌     ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░▌       ▐░▌ ▐░█▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄█░▌
+▐░▌  ▐░▌  ▐░▌     ▐░▌     ▐░░░░░░░░░░░▌▐░▌       ▐░▌ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+▐░▌ ▐░▌░▌ ▐░▌     ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░▌       ▐░▌  ▀▀▀▀▀▀▀▀▀█░▌ ▀▀▀▀▀▀▀▀▀█░▌
+▐░▌▐░▌ ▐░▌▐░▌     ▐░▌     ▐░▌       ▐░▌▐░▌       ▐░▌           ▐░▌          ▐░▌
+▐░▌░▌   ▐░▌▐░▌ ▄▄▄▄█░█▄▄▄▄ ▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄█░▌  ▄▄▄▄▄▄▄▄▄█░▌ ▄▄▄▄▄▄▄▄▄█░▌
+▐░░▌     ▐░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌ ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
+ ▀▀       ▀▀  ▀▀▀▀▀▀▀▀▀▀▀ ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀
 */
 
 /*
 Board Information: https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html=
-Radio Board Information: https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html 
+Radio Board Information: https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.html
 */
 
 #define LED_POWER 48
@@ -38,9 +38,6 @@ Radio Board Information: https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.
 #define BATTERY_PIN -1
 #define ADC_CHANNEL ADC1_GPIO1_CHANNEL
 #define BATTERY_SENSE_RESOLUTION_BITS 12
-
-#define SDA  17
-#define SCL  18
 
 
 // XIAO S3 LORA module
@@ -71,24 +68,23 @@ Radio Board Information: https://www.seeedstudio.com/Wio-SX1262-for-XIAO-p-6379.
 #undef HAS_WIRE
 
 #define USE_SX1262
-#define LORA_MOSI        9
-#define LORA_MISO        8
-#define LORA_SCK         7
-#define LORA_DIO1        2
-#define LORA_RESET       3
-#define LORA_CS          5
-#define SX126X_CS        5
-#define SX126X_DIO1      2
-#define SX126X_BUSY      4
-#define SX126X_RESET     3
+#define LORA_MOSI 9
+#define LORA_MISO 8
+#define LORA_SCK 7
+#define LORA_DIO1 2
+#define LORA_RESET 3
+#define LORA_CS 5
+#define SX126X_CS 5
+#define SX126X_DIO1 2
+#define SX126X_BUSY 4
+#define SX126X_RESET 3
 #define SX126X_DIO2_AS_RF_SWITCH
-#define SX126X_RXEN      6
-#define SX126X_TXEN      RADIOLIB_NC
+#define SX126X_RXEN 6
+#define SX126X_TXEN RADIOLIB_NC
 #define SX126X_DIO3_TCXO_VOLTAGE 1.8
-#define PIN_SPI_MOSI     9
-#define PIN_SPI_MISO     8
-#define PIN_SPI_SCK      7
-#define PIN_SPI_SS       5
-#define HAS_GPS          0
-#define HAS_WIRE         0
-
+#define PIN_SPI_MOSI 9
+#define PIN_SPI_MISO 8
+#define PIN_SPI_SCK 7
+#define PIN_SPI_SS 5
+#define HAS_GPS 0
+#define HAS_WIRE 0
