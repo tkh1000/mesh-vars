@@ -4,14 +4,18 @@ on:
   workflow_dispatch:
     inputs:
       pio_env:
-        description: seeed_xiao_s3_base
+        description: "PlatformIO env (e.g. promicro_dxlr30)"
         required: true
-        default: seeed_xiao_s3_base
+        default: promicro_dxlr30
+      platform:
+        description: "Platform: esp32/esp32s3/esp32c3/nrf52840/rp2040"
+        required: true
+        default: nrf52840
 
 jobs:
   build:
     uses: ./.github/workflows/build_firmware.yml
     with:
       version: "custom"
-      platform: esp32s3
+      platform: ${{ inputs.platform }}
       pio_env: ${{ inputs.pio_env }}
