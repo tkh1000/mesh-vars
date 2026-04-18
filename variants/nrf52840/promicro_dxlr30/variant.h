@@ -37,7 +37,9 @@ extern "C" {
 
 // LEDs  (Pro Micro nRF52840 - TX LED on P1.10, RX LED on P1.11)
 #define PIN_LED1             (42)  // P1.10 = 32+10
+#ifndef LED_BUILTIN
 #define LED_BUILTIN          PIN_LED1
+#endif
 #define LED_GREEN            PIN_LED1
 #define LED_STATE_ON         0     // Active LOW
 
@@ -73,6 +75,8 @@ static const uint8_t AREF = PIN_AREF;
 // Serial1 (hardware UART on board edge)
 #define PIN_SERIAL1_RX  (15)  // P0.15
 #define PIN_SERIAL1_TX  (17)  // P0.17
+#define PIN_SERIAL2_RX  (40)  // P1.08 - available pin for Serial2
+#define PIN_SERIAL2_TX  (39)  // P1.07 - available pin for Serial2
 
 // SPI0 - used by DXLR30 radio
 #define SPI_INTERFACES_COUNT  1
